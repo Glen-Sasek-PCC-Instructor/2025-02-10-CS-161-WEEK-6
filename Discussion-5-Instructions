@@ -1,0 +1,10 @@
+Discussion 5 Instructions:
+Write a program that prompts a user for a series of integers until they are done 
+  (you decide what done looks like for your program!) and then 
+prints the sum, 
+      the average, and 
+      the minimum and 
+          maximum integers entered.
+
+Feel free to add any additional statistics you are interested in calculating. 
+You design the UX - be creative!
